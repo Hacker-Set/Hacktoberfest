@@ -1,1 +1,2 @@
-# Hacktoberfest 2019
+# Hacktoberfest 2019-
+#Support open source and earn a limited edition T-shirt!
